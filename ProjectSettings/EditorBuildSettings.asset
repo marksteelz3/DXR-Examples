@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ME555_Memory Experiment/ME555_Memory Experiment_Text Trial_17-24.unity
+    guid: fa3278454970cac49b041a49dd7adcf9
